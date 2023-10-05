@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp 2</string>
+    <string name="Bem_Vindo">Welcome to the best programming school, come to Dio!</string>
+    <string name="Descricao">Learn how to create Android apps!</string>
+
+</resources>
